@@ -1,0 +1,4 @@
+Best Validation Epoch: 7692
+Best Validation Loss: 0.006684286519885063
+Train Loss: 0.006727315951138735
+Test Loss: 0.006676030345261097
